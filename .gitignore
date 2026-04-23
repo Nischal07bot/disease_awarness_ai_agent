@@ -36,6 +36,11 @@ Thumbs.db
 # Uncomment to exclude large CSV/PKL files:
 # data/*.csv
 # models/*.pkl
+# Ignore dataset and model directories (root) and PowerPoint files
+/data/
+/models/
+*.pptx
 
 # Logs
 *.log
+

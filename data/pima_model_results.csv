@@ -1,4 +1,0 @@
-Model,Best Params,Accuracy,Precision,Recall,F1-Score,ROC-AUC
-Logistic Regression,{'C': 0.1},0.8209,0.8667,0.5652,0.6842,0.8864
-Random Forest,"{'max_depth': 15, 'n_estimators': 50}",0.7612,0.6842,0.5652,0.619,0.8266
-Gradient Boosting,"{'learning_rate': 0.05, 'n_estimators': 50}",0.7761,0.7857,0.4783,0.5946,0.8454
